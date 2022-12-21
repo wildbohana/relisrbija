@@ -1,3 +1,3 @@
 # relisrbija
 
-*link do sajta:*  
+*link do sajta: https://wildbohana.github.io/relisrbija/*  
