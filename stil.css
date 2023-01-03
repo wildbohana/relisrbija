@@ -27,6 +27,10 @@ h3 {
 	font-style: italic;
 }
 
+p {
+	font-size: 26px; 
+}
+
 a {
 	text-decoration: none;
 	font-size: 14px;
